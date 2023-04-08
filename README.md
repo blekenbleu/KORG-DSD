@@ -1,4 +1,4 @@
-Korg DS-DAC-10R setup body { width:960px; margin: 60px; }
+Korg DS-DAC-10R setup
 
 ### DIY DSD:  [DS-DAC-10R Windows setup](https://www.korg.com/us/products/audio/audiogate4/download.php)
 
@@ -43,16 +43,15 @@ if the computer where it is installed changes, AudioGate 4 will need activation 
 NOTE: Although usually required only once, reactivation may needed occasionally,  
 depending on the computer configuration.
 
-*   DSD (64 and 128) file format support
-*   [AudioGate4 FAQ](AudioGate_4_Faq_E2_2.pdf)
-*   [AudioGate4 User Guide](AudioGate4_E3a.pdf)
-*   [DS-DAC-10R User Guide](DS-DAC-10R_OM_E4.pdf)
-
-*   DSDIFF does not support metadata
-*   DSF used by Sony Vaio PCs and e.g. [NativeDSD](https://www.nativedsd.com/free-dsd-download/)   samples at [/e/bleke/music/](Index of E__bleke_music_.html)
-*   WSD created by '1-bit Audio Consortium'.
-*   [Pink Floyd DSD128 in .dsf](https://archive.org/details/pink-floyd-1973-1994-DSD128)
-*   [Mixing Purely in DSD](https://www.nativedsd.com/news/mixing-in-pure-dsd-no-pcm-allowed/) using [Signalyst HQPlayer Pro](https://www.signalyst.com/professional.html) instead of [Pyramix DXD](https://www.merging.com/highlights/high-resolution)
+-   [AudioGate4 FAQ](AudioGate_4_Faq_E2_2.pdf)
+-   [AudioGate4 User Guide](AudioGate4_E3a.pdf)
+-   [DS-DAC-10R User Guide](DS-DAC-10R_OM_E4.pdf)
+-   **DSD (64 and 128) file format support**
+-   `DSDIFF` does not support metadata
+-   `DSF` used by Sony Vaio PCs and e.g. [NativeDSD](https://www.nativedsd.com/free-dsd-download/)   samples at [/e/bleke/music/](Index of E__bleke_music_.html)
+-   `WSD` created by '1-bit Audio Consortium'.
+-   [Pink Floyd DSD128 in `.dsf`](https://archive.org/details/pink-floyd-1973-1994-DSD128)
+-   [Mixing Purely in DSD](https://www.nativedsd.com/news/mixing-in-pure-dsd-no-pcm-allowed/) using [Signalyst HQPlayer Pro](https://www.signalyst.com/professional.html) instead of [Pyramix DXD](https://www.merging.com/highlights/high-resolution)
     
     * * *
     
