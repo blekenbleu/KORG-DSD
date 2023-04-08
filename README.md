@@ -53,23 +53,18 @@ depending on the computer configuration.
 -   [Pink Floyd DSD128 in `.dsf`](https://archive.org/details/pink-floyd-1973-1994-DSD128)
 -   [Mixing Purely in DSD](https://www.nativedsd.com/news/mixing-in-pure-dsd-no-pcm-allowed/) using [Signalyst HQPlayer Pro](https://www.signalyst.com/professional.html) instead of [Pyramix DXD](https://www.merging.com/highlights/high-resolution)
     
-    * * *
+* * *
     
     AudioGate help went to korguser.net for a Japanese v4.5 user guide;  
     could not register there for DS-DAC-10R...
     
-    ##### challenges
+#### challenges
     
-    getting DSF out of Windows 10
+getting DSF out of Windows 10
     
-    HDMI or DLNA
-    
-    [How to play DSD files on Foobar](https://www.psaudio.com/blogs/how-to/how-to-play-dsd-files-on-foobar)
-    
-    [Foobar2000](https://www.foobar2000.org/)
-    
-    [Hysolid](https://www.hysolid.com/)
-    
-    transforms a PC into a WAV and FLAC up to 384kHz as well as DSD from 2.8MHz to 11.2MHz in DSF player controlled by an iOS device
-    
-    other [Windows Hi-Res Audio players](https://www.makeuseof.com/tag/best-windows-music-players-hi-res-audio/) are paid
+- HDMI or DLNA  
+    - [**How to play DSD files on Foobar**](https://www.psaudio.com/blogs/how-to/how-to-play-dsd-files-on-foobar)  
+          [Foobar2000](https://www.foobar2000.org/)  
+    - [Hysolid](https://www.hysolid.com/)  
+          transforms a PC into a WAV and FLAC up to 384kHz as well as DSD from 2.8MHz to 11.2MHz in DSF player controlled by an iOS device  
+    - other [Windows Hi-Res Audio players](https://www.makeuseof.com/tag/best-windows-music-players-hi-res-audio/) are paid  
