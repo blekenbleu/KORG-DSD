@@ -68,3 +68,9 @@ getting DSF out of Windows 10
     - [Hysolid](https://www.hysolid.com/)  
           transforms a PC into a WAV and FLAC up to 384kHz as well as DSD from 2.8MHz to 11.2MHz in DSF player controlled by an iOS device  
     - other [Windows Hi-Res Audio players](https://www.makeuseof.com/tag/best-windows-music-players-hi-res-audio/) are paid  
+
+DS-DAC-10R performs RIAA EQ and normalisation digitally, but [after converting from DSD to PCM (then back)](https://darko.audio/2016/07/portable-vinyl-with-the-korg-ds-dac-10r-audiogate/).  
+- perhaps better to leave in PCM, compressing better and more compatible with Windows...  
+- alternatively, use an analog phono preamp into DS-DAC-10R, allowing it to do one-time DSD ADC.
+- [DS-DAC-10R at audiosciencereview.com](https://www.audiosciencereview.com/forum/index.php?threads/phono-preamp-with-usb-output-recommendation.36058/post-1275029)
+- [DS-DAC-10R vs Topping D50s](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1284540)
