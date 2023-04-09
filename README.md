@@ -48,7 +48,7 @@ depending on the computer configuration.
 -   [DS-DAC-10R User Guide](DS-DAC-10R_OM_E4.pdf)
 -   **DSD (64 and 128) file format support**
 -   `DSDIFF` does not support metadata
--   `DSF` used by Sony Vaio PCs and e.g. [NativeDSD](https://www.nativedsd.com/free-dsd-download/)   samples at [/e/bleke/music/](Index of E__bleke_music_.html)
+-   `DSF` used by Sony Vaio PCs and e.g. [NativeDSD](https://www.nativedsd.com/free-dsd-download/)   samples at [/e/bleke/music/](E__bleke_music_.html)
 -   `WSD` created by '1-bit Audio Consortium'.
 -   [Pink Floyd DSD128 in `.dsf`](https://archive.org/details/pink-floyd-1973-1994-DSD128)
 -   [Mixing Purely in DSD](https://www.nativedsd.com/news/mixing-in-pure-dsd-no-pcm-allowed/) using [Signalyst HQPlayer Pro](https://www.signalyst.com/professional.html) instead of [Pyramix DXD](https://www.merging.com/highlights/high-resolution)
@@ -71,6 +71,22 @@ getting DSF out of Windows 10
 
 DS-DAC-10R performs RIAA EQ and normalisation digitally, but [after converting from DSD to PCM (then back)](https://darko.audio/2016/07/portable-vinyl-with-the-korg-ds-dac-10r-audiogate/).  
 - perhaps better to leave in PCM, compressing better and more compatible with Windows...  
-- alternatively, use an analog phono preamp into DS-DAC-10R, allowing it to do one-time DSD ADC.
+- alternatively, use [an analog phono preamp](schiit_mani_2) into DS-DAC-10R, allowing it to do one-time DSD ADC.
 - [DS-DAC-10R at audiosciencereview.com](https://www.audiosciencereview.com/forum/index.php?threads/phono-preamp-with-usb-output-recommendation.36058/post-1275029)
 - [DS-DAC-10R vs Topping D50s](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1284540)
+
+### [Schiit Mani 2](https://www.schiit.com/products/)  
+    [manual](https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf)
+  [**polishing the Schiit Mani**](https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-5910#post-16832617)
+   to create *clearly the best affordable phono preamp*
+![](https://www.schiit.com/public/upload/images/mani%202%20blk%20bottom%201920.jpg)
+Best sound from moving magnet cartridge wants load tweaking, of which the Schiit Mani 2 supports more than most,  
+particularly for < US$200.  In addition, reviewers generally agree that is has accurate RIAA, low noise and distortion:
+- [Analog Planet](https://www.analogplanet.com/content/schiits-mani-2-mmmc-phono-preamp-goes-head-budget-phono-preamp-class-0)
+- [audio express](https://audioxpress.com/news/schiit-audio-introduces-the-great-mani-two-phono-preamplifier)
+- [Audio Science Review](https://www.audiosciencereview.com/forum/index.php?threads/schiit-mani-2-review-phono-stage.31194/)
+- [Darko](https://darko.audio/2022/02/the-schiit-mani-2-is-your-next-phono-pre-amplifier/)
+- [ecoustics](https://www.ecoustics.com/products/schiit-mani-2-phono-preamp/)
+- [Future Audiophile](https://futureaudiophile.com/schiit-mani-2-phono-preamp-reviewed/)
+- [Speakergy](https://speakergy.com/schiit-mani-review/)
+- [Super Best Audio Friends](https://www.superbestaudiofriends.org/index.php?threads/schiit-mani-2-review.12025/)
