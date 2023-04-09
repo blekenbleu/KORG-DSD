@@ -71,12 +71,12 @@ getting DSF out of Windows 10
 
 DS-DAC-10R performs RIAA EQ and normalisation digitally, but [after converting from DSD to PCM (then back)](https://darko.audio/2016/07/portable-vinyl-with-the-korg-ds-dac-10r-audiogate/).  
 - perhaps better to leave in PCM, compressing better and more compatible with Windows...  
-- alternatively, use [an analog phono preamp](schiit_mani_2) into DS-DAC-10R, allowing it to do one-time DSD ADC.
+- alternatively, use [an analog phono preamp](#schiit-mani-2) into DS-DAC-10R, allowing it to do one-time DSD ADC.
 - [DS-DAC-10R at audiosciencereview.com](https://www.audiosciencereview.com/forum/index.php?threads/phono-preamp-with-usb-output-recommendation.36058/post-1275029)
 - [DS-DAC-10R vs Topping D50s](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1284540)
 
 ### [Schiit Mani 2](https://www.schiit.com/products/)  
-    [manual](https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf)
+    [manual]("https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf")
   [**polishing the Schiit Mani**](https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-5910#post-16832617)
    to create *clearly the best affordable phono preamp*
 ![](https://www.schiit.com/public/upload/images/mani%202%20blk%20bottom%201920.jpg)
