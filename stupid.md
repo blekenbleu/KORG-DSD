@@ -1,4 +1,4 @@
-[*back*](README)  
+[*back*](README.md)  
 
 ### stupid things about AudioGate4
 - grabs both input and output for selected device with exclusive access
