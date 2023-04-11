@@ -5,6 +5,7 @@
    - making it impossible for Windows to play from that device
      while AudioGate uses it for input.  
 		- despite [Control Panel Sound settings](control.md)  
+			- [work-around using Creative Sound Blaster X-Fi Surround 5.1 Pro](control.md#audiogate4-stupidity-dsd-playback-work-around-using-creative-sound-blaster-x-fi-surround-51-pro)
    - preventing AudioGate4 from monitoring recording to another device
 - most menu items duplicate icons
   - one of the few that is not and among the more important, `preferences`,
