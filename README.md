@@ -59,9 +59,10 @@ depending on the computer configuration.
     could not register there for DS-DAC-10R...
     
 #### challenges
-    
-getting DSF out of Windows 10
-    
+
+1. [**AudioGate4 is criminally stupid**](stupid.md)  
+2. getting DSF out of Windows 10  
+   
 - HDMI or DLNA  
     - [**How to play DSD files on Foobar**](https://www.psaudio.com/blogs/how-to/how-to-play-dsd-files-on-foobar)  
           [Foobar2000](https://www.foobar2000.org/)  
