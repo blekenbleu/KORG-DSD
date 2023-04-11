@@ -16,6 +16,6 @@
  and be heard from its headphone jack,  
   but this X-Fi *fails* as Windows Input Device.
 - AudioGate4 also can playback to [AudioBox USB](https://www.presonus.com/products/AudioBox-USB),  
-  but it then no longer works for Windows Input..!  
+  but AudioBox then no longer works for Windows Input..!  
 - AudioGate4 `help` links to an obsolete Japanese document.  
 - **How did AudioGate4 ever get favorable reviews???**
