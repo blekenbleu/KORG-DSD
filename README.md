@@ -76,6 +76,9 @@ DS-DAC-10R performs RIAA EQ and normalisation digitally, but [after converting f
 - [DS-DAC-10R at audiosciencereview.com](https://www.audiosciencereview.com/forum/index.php?threads/phono-preamp-with-usb-output-recommendation.36058/post-1275029)
 - [DS-DAC-10R vs Topping D50s](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1284540)
 
+### [Creative Sound Blaster X-Fi Surround 5.1 Pro](https://files.creative.com/manualdn/Manuals/TSD/11754/MtA22ZLb0p/Sound%20Blaster%20X-Fi%20Surround%205.1%20Pro%20v3%20UG_EN.pdf)  
+### [NativeDSD Downloader](https://help.nativedsd.com/en/collections/1826760-nativedsd-downloader)
+### [PreSonus AudioBox USB](AudioBoxUSB_OwnersManual_EN1.pdf)  
 ### [Schiit Mani 2](https://www.schiit.com/products/)  
     [manual]("https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf")
   [**polishing the Schiit Mani**](https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-5910#post-16832617)

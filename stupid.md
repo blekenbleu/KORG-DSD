@@ -3,7 +3,8 @@
 ### stupid things about AudioGate4
 - grabs both input and output for selected device with exclusive access
    - making it impossible for Windows to play from that device
-     while AudioGate uses it for input.
+     while AudioGate uses it for input.  
+		- despite [Control Panel Sound settings](Control.md)  
    - preventing AudioGate4 from monitoring recording to another device
 - most menu items duplicate icons
   - one of the few that is not and among the more important, `preferences`,
