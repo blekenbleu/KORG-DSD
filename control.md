@@ -1,6 +1,6 @@
 [*back*](stupid.md)  
 
-### Windows Control Panel settings
+### Windows Control Panel Sound card settings
 - AudioGate4 grabs both input and output for selected device with exclusive access
    - preventing Windows default output device from playing its output
 - Windows Sound Control Panel can disable exclusive access without mitigating AudioGate4 stupidity
