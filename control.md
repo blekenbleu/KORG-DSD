@@ -11,7 +11,15 @@
 		![](sound.png)  
     - Select device and `Recording`  
 		![](Recording.png)  
-	- Check `Listen to this device`, if offered  
+	- **Check `Listen to this device`, if offered**  
 		![](Listen.png)  
 	- Under `Advanced`, disallow `Exclusive Mode`  
 		![](Advanced.png)
+### AudioGate4 stupidity DSD playback work-around using Creative Sound Blaster X-Fi Surround 5.1 Pro
+- Sound setting (NOT control panel)
+	- with AudioGate4 `Menu > Edit > Preferences` set to `Creative Sound Blaster ASIO`:  
+		![](Preferences.png)
+	- set Input device to `What U Hear Sound Blaster X-Fi`:  
+		![](Input.png)  
+	- This probably works (provided that `Listen` is enabled in Control Panel)  
+	 because X-Fi provides *multiple sound devices* to Windows.
