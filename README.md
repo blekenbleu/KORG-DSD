@@ -48,7 +48,7 @@ depending on the computer configuration.
 -   [DS-DAC-10R User Guide](DS-DAC-10R_OM_E4.pdf)
 -   **DSD (64 and 128) file format support**
 -   `DSDIFF` does not support metadata
--   `DSF` used by Sony Vaio PCs and e.g. [NativeDSD](https://www.nativedsd.com/free-dsd-download/)   samples at [/e/bleke/music/](E__bleke_music_.html)
+-   `DSF` used by Sony Vaio PCs and e.g. [NativeDSD](https://www.nativedsd.com/free-dsd-download/)   samples at [/e/bleke/music/](E_bleke_music_.md)
 -   `WSD` created by '1-bit Audio Consortium'.
 -   [Pink Floyd DSD128 in `.dsf`](https://archive.org/details/pink-floyd-1973-1994-DSD128)
 -   [Mixing Purely in DSD](https://www.nativedsd.com/news/mixing-in-pure-dsd-no-pcm-allowed/) using [Signalyst HQPlayer Pro](https://www.signalyst.com/professional.html) instead of [Pyramix DXD](https://www.merging.com/highlights/high-resolution)

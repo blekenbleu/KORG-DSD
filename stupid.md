@@ -11,8 +11,10 @@
   - settings are scattered among several panels
     DSD / PCM file formats, bit rates, input/output devices and channels, etc
   - no selection for recording PCM instead of DSD??
-- AudioGate4 can playback to the X-Fi and be heard from its headphone,
-  but X-Fi fails as Windows Input Device.
-- AudioGate4 also can playback to the AudioBox,  
+- AudioGate4 can playback to [Sound Blaster X-Fi Surround 5.1](https://en.creative.com/p/sound-cards/sound-blaster-x-fi-surround-5-1-pro)
+ and be heard from its headphone jack,  
+  but this X-Fi *fails* as Windows Input Device.
+- AudioGate4 also can playback to [AudioBox USB](https://www.presonus.com/products/AudioBox-USB),  
   but it then no longer works for Windows Input..!  
-- **How did it ever get favorable reviews???**
+- AudioGate4 `help` links to an obsolete Japanese document.  
+- **How did AudioGate4 ever get favorable reviews???**
