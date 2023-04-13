@@ -1,3 +1,6 @@
+*this is mostly used with a [Technics SL-7](https://blekenbleu.github.io/SL-7/) and [Schiit Mani 2](#schiit-mani-2)*  
+---
+
 Korg DS-DAC-10R setup
 
 ### DIY DSD:  [DS-DAC-10R Windows setup](https://www.korg.com/us/products/audio/audiogate4/download.php)
@@ -80,7 +83,7 @@ DS-DAC-10R performs RIAA EQ and normalisation digitally, but [after converting f
 ### [NativeDSD Downloader](https://help.nativedsd.com/en/collections/1826760-nativedsd-downloader)
 ### [PreSonus AudioBox USB](AudioBoxUSB_OwnersManual_EN1.pdf)  
 ### [Schiit Mani 2](https://www.schiit.com/products/)  
-    [manual]("https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf")
+  [manual](https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf)  
   [**polishing the Schiit Mani**](https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-5910#post-16832617)
    to create *clearly the best affordable phono preamp*
 ![](https://www.schiit.com/public/upload/images/mani%202%20blk%20bottom%201920.jpg)
