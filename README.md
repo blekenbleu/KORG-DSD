@@ -91,7 +91,7 @@ Best sound from moving magnet cartridge wants load tweaking, of which the Schiit
 particularly for < US$200.  In addition, reviewers generally agree that is has accurate RIAA, low noise and distortion:
 - [Analog Planet](https://www.analogplanet.com/content/schiits-mani-2-mmmc-phono-preamp-goes-head-budget-phono-preamp-class-0)
 - [audio express](https://audioxpress.com/news/schiit-audio-introduces-the-great-mani-two-phono-preamplifier)
-- [Audio Science Review](https://www.audiosciencereview.com/forum/index.php?threads/schiit-mani-2-review-phono-stage.31194/)
+- [**Audio Science Review**](Mani_DJ-PreII.md)
 - [Darko](https://darko.audio/2022/02/the-schiit-mani-2-is-your-next-phono-pre-amplifier/)
 - [ecoustics](https://www.ecoustics.com/products/schiit-mani-2-phono-preamp/)
 - [Future Audiophile](https://futureaudiophile.com/schiit-mani-2-phono-preamp-reviewed/)
