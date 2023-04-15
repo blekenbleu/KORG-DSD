@@ -14,3 +14,5 @@
 - Schiit Mani 2 1kHz peak is 0dBrA;&nbsp; ART DJ-PRE II is -10 dBV
   - even with 10dB lower 1kHz peak, ART DJ-PRE II peak at 60Hz is -78dB *on unweighted graph*,  
     while Schiit is -82dB...
+- Schiit (T.M. Noble) reviewed results, suspected a bad transformer, [reported 91dB SINAD there](https://www.audiosciencereview.com/forum/index.php?threads/schiit-mani-2-review-phono-stage.31194/post-1100970):  
+	![](Schitt_SINAD.jpg)

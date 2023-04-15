@@ -1,7 +1,9 @@
 *this is mostly used with a [Technics SL-7](https://blekenbleu.github.io/SL-7/) and [Schiit Mani 2](#schiit-mani-2)*  
 ---
 
-Korg DS-DAC-10R setup
+## Korg DS-DAC-10R  
+
+Sometimes used for [cartridge comparisons](https://blekenbleu.github.io/SL-7/delta_T4P.htm)  
 
 ### DIY DSD:  [DS-DAC-10R Windows setup](https://www.korg.com/us/products/audio/audiogate4/download.php)
 
