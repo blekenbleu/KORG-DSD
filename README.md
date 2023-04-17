@@ -114,6 +114,6 @@ which seemingly only plays from DS-DAC-10R when Record button is selected.
 No obvious treble boost with stock SL-7 phono cables and default Mani loading settings.  
 Practiced struggling with [Wave Corrector](https://www.wavecor.co.uk/) on Baez' "Diamonds and Rust" side 2;  
 Wave Corrector is too eager to split tracks on dramatic singing pauses;  
-split threshold is no longer adjustable, `Tips.txt` includes using  
-Block - Merge Tracks command to remerge tracks to a single track.
+- split threshold is no longer adjustable, `Tips.txt` includes using  
+	- Block - Merge Tracks command to remerge false tracks to a single track.
 
