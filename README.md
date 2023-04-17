@@ -86,16 +86,34 @@ DS-DAC-10R performs RIAA EQ and normalisation digitally, but [after converting f
 ### [PreSonus AudioBox USB](AudioBoxUSB_OwnersManual_EN1.pdf)  
 ### [Schiit Mani 2](https://www.schiit.com/products/)  
   [manual](https://www.schiit.com/public/upload/PDF/mani%202%20manual%201_2.pdf)  
-  [**polishing the Schiit Mani**](https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-5910#post-16832617)
-   to create *clearly the best affordable phono preamp*
-![](https://www.schiit.com/public/upload/images/mani%202%20blk%20bottom%201920.jpg)
-Best sound from moving magnet cartridge wants load tweaking, of which the Schiit Mani 2 supports more than most,  
-particularly for < US$200.  In addition, reviewers generally agree that is has accurate RIAA, low noise and distortion:
-- [Analog Planet](https://www.analogplanet.com/content/schiits-mani-2-mmmc-phono-preamp-goes-head-budget-phono-preamp-class-0)
-- [audio express](https://audioxpress.com/news/schiit-audio-introduces-the-great-mani-two-phono-preamplifier)
-- [**Audio Science Review**](Mani_DJ-PreII.md)
-- [Darko](https://darko.audio/2022/02/the-schiit-mani-2-is-your-next-phono-pre-amplifier/)
-- [ecoustics](https://www.ecoustics.com/products/schiit-mani-2-phono-preamp/)
-- [Future Audiophile](https://futureaudiophile.com/schiit-mani-2-phono-preamp-reviewed/)
-- [Speakergy](https://speakergy.com/schiit-mani-review/)
-- [Super Best Audio Friends](https://www.superbestaudiofriends.org/index.php?threads/schiit-mani-2-review.12025/)
+
+### [polishing the Schiit Mani](https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-5910#post-16832617) to create *clearly the best affordable phono preamp*  
+
+![](https://www.schiit.com/public/upload/images/mani%202%20blk%20bottom%201920.jpg)  
+  
+Best sound from moving magnet cartridge wants load tweaking,  
+for which Schiit Mani 2 supports more than most, particularly for < US$200.  
+Reviewers generally agree on its accurate RIAA, low noise and distortion:  
+- [Analog Planet](https://www.analogplanet.com/content/schiits-mani-2-mmmc-phono-preamp-goes-head-budget-phono-preamp-class-0)  
+- [**Audio Science Review**](Mani_DJ-PreII.md)  
+- [audio xpress](https://audioxpress.com/news/schiit-audio-introduces-the-great-mani-two-phono-preamplifier)  
+- [Darko](https://darko.audio/2022/02/the-schiit-mani-2-is-your-next-phono-pre-amplifier/)  
+- [ecoustics](https://www.ecoustics.com/products/schiit-mani-2-phono-preamp/)  
+- [Future Audiophile](https://futureaudiophile.com/schiit-mani-2-phono-preamp-reviewed/)  
+- [Speakergy](https://speakergy.com/schiit-mani-review/)  
+- [Super Best Audio Friends](https://www.superbestaudiofriends.org/index.php?threads/schiit-mani-2-review.12025/)  
+---
+*received 17 Apr 2023*
+
+LED seems unnecessarily bright; chunky wall-wart transformer hogs spaces on an outlet strip  
+Mani got warm within minutes of power on, but ran cooler several hours later...?  
+Configured DS-DAC-10R for line in and no equalization,  
+moved SL-7 wiring from it to Mani with default settings,  
+Mano output level with A-T cartridge shipped in SL-7 seems fine in AudioGate,  
+which seemingly only plays from DS-DAC-10R when Record button is selected.  
+No obvious treble boost with stock SL-7 phono cables and default Mani loading settings.  
+Practiced struggling with [Wave Corrector](https://www.wavecor.co.uk/) on Baez' "Diamonds and Rust" side 2;  
+Wave Corrector is too eager to split tracks on dramatic singing pauses;  
+split threshold is no longer adjustable, `Tips.txt` includes using  
+Block - Merge Tracks command to remerge tracks to a single track.
+
