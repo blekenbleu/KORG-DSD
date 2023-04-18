@@ -112,7 +112,7 @@ moved SL-7 wiring from it to Mani with default settings,
 Mano output level with A-T cartridge shipped in SL-7 seems fine in AudioGate,  
 which seemingly only plays from DS-DAC-10R when Record button is selected.  
 No obvious treble boost with stock SL-7 phono cables and default Mani loading settings.  
-Practiced struggling with [Wave Corrector](https://www.wavecor.co.uk/) on Baez' "Diamonds and Rust" side 2;  
+Practiced struggling with [Wave Corrector](https://blekenbleu.github.io/SL-7/WaveCorrector.html) on Baez' "Diamonds and Rust" side 2;  
 Wave Corrector is too eager to split tracks on dramatic singing pauses;  
 - split threshold is no longer adjustable, `Tips.txt` includes using  
 	- Block - Merge Tracks command to remerge false tracks to a single track.
