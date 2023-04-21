@@ -112,8 +112,29 @@ moved SL-7 wiring from it to Mani with default settings,
 Mano output level with A-T cartridge shipped in SL-7 seems fine in AudioGate,  
 which seemingly only plays from DS-DAC-10R when Record button is selected.  
 No obvious treble boost with stock SL-7 phono cables and default Mani loading settings.  
-Practiced struggling with [Wave Corrector](https://blekenbleu.github.io/SL-7/WaveCorrector.html) on Baez' "Diamonds and Rust" side 2;  
-Wave Corrector is too eager to split tracks on dramatic singing pauses;  
-- split threshold is no longer adjustable, `Tips.txt` includes using  
-	- Block - Merge Tracks command to remerge false tracks to a single track.
+
+### Wave Corrector and [Multitone Loopback](https://distortaudio.org/multitone.html)  
+- Wave Corrector is null comparison for rendered music  
+- Multitone Loopback uses known simpler waveforms for e.g. distortion distortion testing  
+  Harmonic and intermodulation distortion are traditional measures for nonlinearity;  
+  modern high sampling speed ADCs could presumably perform linearity measurements more directly...  
+
+1. Practiced struggling with [Wave Corrector](https://blekenbleu.github.io/SL-7/WaveCorrector.html) on Baez' "Diamonds and Rust" side 2;  
+Wave Corrector is too eager to split tracks on dramatic singing pauses;
+	- split threshold is no longer adjustable, `Tips.txt` includes using  
+		- Block - Merge Tracks command to remerge false tracks to a single track.
+2. [Korg DS-DAC-10-R is already tested by Multitone Loopback](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1284540)  
+
+3. Windows has an embedded limiter (CAudioLimiter) [APO](https://github.com/dechamps/APO) that can cause distortion if the signal is near full scale
+	- use ASIO or WASAPI exclusive and bypass Windows' audio engine all together, for bit perfect operation.
+	-  Equalizer APO (EAPO) supports a trouble shooting mode that [turns off all "original" (stock) system APOs](https://www.audiosciencereview.com/forum/index.php?threads/ending-the-windows-audio-quality-debate.19438/)  
+
+### [Phono ADC - perfectionist perspective](https://www.audiosciencereview.com/forum/index.php?threads/which-adc-for-phono-signal-into-s-p-dif-or-toslink.43262/post-1532862)  
+
+	- 20dB for pops and clicks
+	- + 80dB for music = 100dB
+	- ADC achieving more than 100db SINAD is a challenge
+    - [MOTU M4](https://www.audiosciencereview.com/forum/index.php?threads/motu-m4-audio-interface-review.15757/) cost-effective USB ADC with known better specs.
+	- [$550 MOTU UltraLite-mk5](https://www.audiosciencereview.com/forum/index.php?threads/motu-ultralite-mk5-review-audio-interface.24777/) has better ADC and multi-channel.  
+
 
