@@ -127,14 +127,13 @@ Wave Corrector is too eager to split tracks on dramatic singing pauses;
 
 3. Windows has an embedded limiter (CAudioLimiter) [APO](https://github.com/dechamps/APO) that can cause distortion if the signal is near full scale
 	- use ASIO or WASAPI exclusive and bypass Windows' audio engine all together, for bit perfect operation.
-	-  Equalizer APO (EAPO) supports a trouble shooting mode that [turns off all "original" (stock) system APOs](https://www.audiosciencereview.com/forum/index.php?threads/ending-the-windows-audio-quality-debate.19438/)  
-
-### [Phono ADC - perfectionist perspective](https://www.audiosciencereview.com/forum/index.php?threads/which-adc-for-phono-signal-into-s-p-dif-or-toslink.43262/post-1532862)  
-
-	- 20dB for pops and clicks
-	- + 80dB for music = 100dB
-	- ADC achieving more than 100db SINAD is a challenge
-    - [MOTU M4](https://www.audiosciencereview.com/forum/index.php?threads/motu-m4-audio-interface-review.15757/) cost-effective USB ADC with known better specs.
+	- Equalizer APO (EAPO) supports a trouble shooting mode that [turns off all "original" (stock) system APOs](https://www.audiosciencereview.com/forum/index.php?threads/ending-the-windows-audio-quality-debate.19438/)  
+4. Phono ADC alternatives
+    - [MOTU M4]("https://www.audiosciencereview.com/forum/index.php?threads/motu-m4-audio-interface-review.15757/") cost-effective USB ADC with known better specs.
 	- [$550 MOTU UltraLite-mk5](https://www.audiosciencereview.com/forum/index.php?threads/motu-ultralite-mk5-review-audio-interface.24777/) has better ADC and multi-channel.  
+	- [perfectionist perspective]("https://www.audiosciencereview.com/forum/index.php?threads/which-adc-for-phono-signal-into-s-p-dif-or-toslink.43262/post-1532862")  
+		- 20dB for pops and clicks
+		- add 80dB for music = 100dB
+		- ADC achieving more than 100db SINAD is a challenge
 
 
