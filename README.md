@@ -135,10 +135,14 @@ Wave Corrector is too eager to split tracks on dramatic singing pauses;
 		- add 80dB for music = 100dB
 		- ADC achieving more than 100db SINAD is a challenge  
 
-### Wave Corrector and [Multitone Loopback](https://distortaudio.org/multitone.html)  &nbsp <a href="https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/">beta testing</a>
+### Wave Corrector and [Multitone Loopback](https://distortaudio.org/multitone.html)  &nbsp; <a href="https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/">beta testing</a>
 - Multitone Loopback uses known simpler waveforms for e.g. distortion distortion testing  
   Harmonic and intermodulation distortion are traditional measures for nonlinearity;  
   modern high sampling speed ADCs could presumably perform linearity measurements more directly...  
+- Seemingly, Wave Corrector and Multitone Loopback tech could be combined for phonograph analyses
+	- rip test records known to employ constant amplitude sine wave sweeps
+    - deduce those frequencies and synchronize synthesized sine sweep to rip
+    - calculate SINAD and distortions;&nbsp; generate linearization and equalization corrections
 #### [Multitone Loopback linearity correction (harmonic distortion reduction)](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1070716)
 #### [Multitone Loopback transient intermodulation distortion](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1313537)  
 #### [Multitone Loopback frequency sweep](https://www.audiosciencereview.com/forum/index.php?threads/beta-test-multitone-loopback-analyzer-software.27844/post-1552887)
